@@ -1,0 +1,161 @@
+25/03/2026 00:17:22.482 Log started.
+25/03/2026 00:17:22.483 Unprotecting memory region '.text': 0x00001000 (size: 0x00456000)
+25/03/2026 00:17:22.483 Unprotecting memory region '.rdata': 0x00458000 (size: 0x0004C000)
+25/03/2026 00:17:22.483 Unprotecting memory region '.text': 0x008B1000 (size: 0x0064A000)
+25/03/2026 00:17:22.483 Parsing FXT file WeaponNames(EN).fxt
+25/03/2026 00:17:22.483 Added FXT[VWW0]
+25/03/2026 00:17:22.483 Added FXT[VWW1]
+25/03/2026 00:17:22.483 Added FXT[VWW2]
+25/03/2026 00:17:22.483 Added FXT[VWW3]
+25/03/2026 00:17:22.483 Added FXT[VWW4]
+25/03/2026 00:17:22.483 Added FXT[VWW5]
+25/03/2026 00:17:22.483 Added FXT[VWW6]
+25/03/2026 00:17:22.483 Added FXT[VWW7]
+25/03/2026 00:17:22.483 Added FXT[VWW8]
+25/03/2026 00:17:22.483 Added FXT[VWW9]
+25/03/2026 00:17:22.483 Added FXT[VWW10]
+25/03/2026 00:17:22.483 Added FXT[VWW11]
+25/03/2026 00:17:22.483 Added FXT[VWW12]
+25/03/2026 00:17:22.483 Added FXT[VWW13]
+25/03/2026 00:17:22.483 Added FXT[VWW14]
+25/03/2026 00:17:22.483 Added FXT[VWW15]
+25/03/2026 00:17:22.483 Added FXT[VWW16]
+25/03/2026 00:17:22.483 Added FXT[VWW17]
+25/03/2026 00:17:22.483 Added FXT[VWW18]
+25/03/2026 00:17:22.483 Added FXT[VWW19]
+25/03/2026 00:17:22.483 Added FXT[VWW20]
+25/03/2026 00:17:22.483 Added FXT[VWW21]
+25/03/2026 00:17:22.483 Added FXT[VWW22]
+25/03/2026 00:17:22.483 Added FXT[VWW23]
+25/03/2026 00:17:22.484 Added FXT[VWW24]
+25/03/2026 00:17:22.484 Added FXT[VWW25]
+25/03/2026 00:17:22.484 Added FXT[VWW26]
+25/03/2026 00:17:22.484 Added FXT[VWW27]
+25/03/2026 00:17:22.484 Added FXT[VWW28]
+25/03/2026 00:17:22.484 Added FXT[VWW29]
+25/03/2026 00:17:22.484 Added FXT[VWW30]
+25/03/2026 00:17:22.484 Added FXT[VWW31]
+25/03/2026 00:17:22.484 Added FXT[VWW32]
+25/03/2026 00:17:22.484 Added FXT[VWW33]
+25/03/2026 00:17:22.484 Added FXT[VWW34]
+25/03/2026 00:17:22.484 Added FXT[VWW35]
+25/03/2026 00:17:22.484 Added FXT[VWW36]
+25/03/2026 00:17:22.484 Added FXT[VWW37]
+25/03/2026 00:17:22.484 Added FXT[VWW38]
+25/03/2026 00:17:22.484 Added FXT[VWW39]
+25/03/2026 00:17:22.484 Added FXT[VWW40]
+25/03/2026 00:17:22.484 Added FXT[VWW41]
+25/03/2026 00:17:22.484 Added FXT[VWW42]
+25/03/2026 00:17:22.484 Added FXT[VWW43]
+25/03/2026 00:17:22.484 Added FXT[VWW44]
+25/03/2026 00:17:22.484 Added FXT[VWW45]
+25/03/2026 00:17:22.484 Added FXT[VWW46]
+25/03/2026 00:17:22.484 Unloading plugins...
+25/03/2026 00:17:22.484 Loading plugin cleo/CLEO+.cleo
+25/03/2026 00:17:22.494 Loading plugin cleo/FileSystemOperations.cleo
+25/03/2026 00:17:22.501 Loading plugin cleo/IniFiles.cleo
+25/03/2026 00:17:22.507 Loading plugin cleo/IntOperations.cleo
+25/03/2026 00:17:22.511 Started on game of version: SA 1.0 us
+25/03/2026 00:17:22.511 Injecting MenuStatusNotifier...
+25/03/2026 00:17:22.511 Replacing call: 0x0057B9FD
+25/03/2026 00:17:22.511 Injecting DmaFix...
+25/03/2026 00:17:22.511 Replacing call: 0x0053E981
+25/03/2026 00:17:22.511 Injecting TextManager...
+25/03/2026 00:17:22.512 Injecting function at: 0x006A0050
+25/03/2026 00:17:22.512 Injecting SoundSystem...
+25/03/2026 00:17:22.512 Replacing call: 0x007487A8
+25/03/2026 00:17:22.512 Injecting CustomOpcodeSystem...
+25/03/2026 00:17:22.512 Injecting ScriptEngine...
+25/03/2026 00:17:22.512 Replacing call: 0x0046A21B
+25/03/2026 00:17:22.512 Replacing call: 0x0058D552
+25/03/2026 00:17:22.512 Replacing call: 0x0058FCE4
+25/03/2026 00:17:22.512 Replacing call: 0x0053BDD7
+25/03/2026 00:17:22.512 Replacing call: 0x005BA340
+25/03/2026 00:17:22.512 Replacing call: 0x005D4FD7
+25/03/2026 00:17:22.512 Replacing call: 0x005D18F0
+25/03/2026 00:17:22.512 Replacing call: 0x005D14D5
+25/03/2026 00:17:22.512 Injecting function at: 0x004667DB
+25/03/2026 00:17:23.069 Creating main window...
+25/03/2026 00:17:23.091 Found sound device 0: No sound
+25/03/2026 00:17:23.091 Found sound device 1 (default): Default
+25/03/2026 00:17:23.091 Found sound device 2: Legion 27Q-10 (NVIDIA High Definition Audio)
+25/03/2026 00:17:23.091 Found sound device 3 (default): Altavoces (Realtek(R) Audio)
+25/03/2026 00:17:23.091 On system found 4 devices, 4 enabled devices, assuming device to use: 3 (Altavoces (Realtek(R) Audio))
+25/03/2026 00:17:23.217 SoundSystem initialized
+25/03/2026 00:17:23.217 Floating-point audio supported!
+25/03/2026 00:17:23.217 Audio hardware acceleration disabled (no EAX)
+25/03/2026 00:17:32.940 Scripts exclusively initialized
+25/03/2026 00:17:32.943 Deleting dynamic fxts...
+25/03/2026 00:17:32.943 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+25/03/2026 00:17:32.943 Searching for cleo scripts
+25/03/2026 00:17:32.943 Loading custom script Rlogos.cs...
+25/03/2026 00:17:32.944 Registering custom script named Rlogos.
+25/03/2026 00:17:32.944 Loading custom script VoidWeaponWheel.cs...
+25/03/2026 00:17:32.944 Registering custom script named VoidWea
+25/03/2026 00:17:32.944 Loading custom script WeaponWheelUI.cs...
+25/03/2026 00:17:32.945 Registering custom script named WeaponW
+25/03/2026 00:17:32.945 Loading custom script ..\modloader\recomeçar missão\cleo\restartmission.cs...
+25/03/2026 00:17:32.945 Registering custom script named restart
+25/03/2026 00:17:32.946 Loading custom script ..\modloader\weaponrecoilauto\cleo\weaponrecoilauto.cs...
+25/03/2026 00:17:32.946 Registering custom script named weaponr
+25/03/2026 00:17:33.111 Unregistering custom script named WeaponW
+25/03/2026 00:17:33.113 [0A92] Starting new custom script WEAPONWHEELUI.CS from thread named VoidWea
+25/03/2026 00:17:33.114 Loading custom script WEAPONWHEELUI.CS...
+25/03/2026 00:17:33.114 Registering custom script named WEAPONW
+25/03/2026 00:17:33.439 Scripts initialized
+25/03/2026 00:17:33.439 Unregistering custom script named Rlogos.
+25/03/2026 00:17:33.439 Unregistering custom script named VoidWea
+25/03/2026 00:17:33.439 Unregistering custom script named restart
+25/03/2026 00:17:33.439 Unregistering custom script named weaponr
+25/03/2026 00:17:33.439 Unregistering custom script named WEAPONW
+25/03/2026 00:17:33.439 Deleting inactive script named WeaponW
+25/03/2026 00:17:33.440 Deleting dynamic fxts...
+25/03/2026 00:17:33.440 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+25/03/2026 00:17:33.440 Searching for cleo scripts
+25/03/2026 00:17:33.440 Loading custom script Rlogos.cs...
+25/03/2026 00:17:33.440 Registering custom script named Rlogos.
+25/03/2026 00:17:33.440 Loading custom script VoidWeaponWheel.cs...
+25/03/2026 00:17:33.440 Registering custom script named VoidWea
+25/03/2026 00:17:33.440 Loading custom script WeaponWheelUI.cs...
+25/03/2026 00:17:33.441 Registering custom script named WeaponW
+25/03/2026 00:17:33.441 Loading custom script ..\modloader\recomeçar missão\cleo\restartmission.cs...
+25/03/2026 00:17:33.441 Registering custom script named restart
+25/03/2026 00:17:33.441 Loading custom script ..\modloader\weaponrecoilauto\cleo\weaponrecoilauto.cs...
+25/03/2026 00:17:33.441 Registering custom script named weaponr
+25/03/2026 00:17:33.444 void __cdecl CLEO::OnLoadScmData(void)
+25/03/2026 00:17:33.444 Scripts loaded
+25/03/2026 00:17:33.444 Unregistering custom script named Rlogos.
+25/03/2026 00:17:33.444 Unregistering custom script named VoidWea
+25/03/2026 00:17:33.444 Unregistering custom script named WeaponW
+25/03/2026 00:17:33.444 Unregistering custom script named restart
+25/03/2026 00:17:33.444 Unregistering custom script named weaponr
+25/03/2026 00:17:33.446 Deleting dynamic fxts...
+25/03/2026 00:17:33.446 Cleaning up script data... 0 files, 0 libs, 0 file scans, 0 allocations...
+25/03/2026 00:17:33.446 Loading cleo safe ./cleo/cleo_saves/cs0.sav
+25/03/2026 00:17:33.449 Finished. Loaded 1024 cleo variables, 0 saved threads info, 0 stopped threads info
+25/03/2026 00:17:33.449 Searching for cleo scripts
+25/03/2026 00:17:33.449 Loading custom script Rlogos.cs...
+25/03/2026 00:17:33.449 Registering custom script named Rlogos.
+25/03/2026 00:17:33.449 Loading custom script VoidWeaponWheel.cs...
+25/03/2026 00:17:33.449 Registering custom script named VoidWea
+25/03/2026 00:17:33.449 Loading custom script WeaponWheelUI.cs...
+25/03/2026 00:17:33.449 Registering custom script named WeaponW
+25/03/2026 00:17:33.449 Loading custom script ..\modloader\recomeçar missão\cleo\restartmission.cs...
+25/03/2026 00:17:33.449 Registering custom script named restart
+25/03/2026 00:17:33.449 Loading custom script ..\modloader\weaponrecoilauto\cleo\weaponrecoilauto.cs...
+25/03/2026 00:17:33.450 Registering custom script named weaponr
+25/03/2026 00:17:33.469 Unregistering custom script named WeaponW
+25/03/2026 00:17:33.470 [0A92] Starting new custom script WEAPONWHEELUI.CS from thread named VoidWea
+25/03/2026 00:17:33.470 Loading custom script WEAPONWHEELUI.CS...
+25/03/2026 00:17:33.470 Registering custom script named WEAPONW
+25/03/2026 00:32:50.338 void __cdecl CLEO::OnSaveScmData(void)
+25/03/2026 00:32:50.338 Saving script engine state to the file ./cleo/cleo_saves/cs0.sav
+25/03/2026 00:32:50.339 Done. Saved 1024 cleo variables, 0 saved threads, 0 stopped threads
+25/03/2026 00:32:50.339 Unregistering all custom scripts
+25/03/2026 00:32:50.339 Reregistering all custom scripts
+25/03/2026 00:32:55.941 Closing SoundSystem...
+25/03/2026 00:32:55.941 Freeing BASS library
+25/03/2026 00:32:55.941 SoundSystem closed!
+25/03/2026 00:32:55.941 Deleting fxts...
+25/03/2026 00:32:55.941 Unloading scripts...
+25/03/2026 00:32:55.941 Unregistering custom script named Rlogos.
