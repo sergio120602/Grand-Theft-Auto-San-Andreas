@@ -1,0 +1,54 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2018
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+
+=======   MixMods.com.br   ======= - Melhor visualizável no bloco de notas com fontes mono-espaçadas, como "Consolas".
+
+
+------- Instruções:
+
+= GTA SA:
+Extraia tudo para a pasta do seu jogo. Se preferir, o .asi para a pasta "scripts".
+ - Necessário Silent Asi Loader: MixMods.com.br/2013/02/silent-asi-loader.html
+ - Necessário Crack 1.0 — você pode encontrar em: Miscellaneous-C.blogspot.com
+
+
+= GTA III/VC:
+Extraia o arquivo .asi para a pasta "scripts" ou a pasta do jogo (se não funcionar, use a pasta "scripts"), e a pasta "modloader" para a pasta do jogo.
+ - Necessário Ultimate ASI Loader: MixMods.com.br/2015/08/jogos-em-geral-universal-asi-loader.html
+ - Necessário Crack 1.0 ou 1.1 — você pode encontrar em: Miscellaneous-C.blogspot.com
+
+
+Para ter certeza que tudo funcionou, ao entrar no jogo será criado um arquivo .log e .ini dentro da pasta "modloader".
+
+
+
+--- Dicas:
+Leia o arquivo "Leiame (ORIGINAL).txt" escrito pelo próprio LINK/2012.
+Leia o tutorial de como usar o Mod Loader escrito por mim (Junior_Djjr): MixMods.com.br/2015/07/tutorial-dicas-tudo-sobre-mod-loader.html
+Uma maneira rápida de fazer uma pasta do ModLoader não ser carregada é colocar um ponto e espaço no início do nome da pasta. (por exemplo ". mod")
+O arquivo "modloader\modloader.log" te dá todas as informações dos mods sendo carregados (ou não), além de informações técnicas sobre crashes que podem ser usadas aqui: MixMods.com.br/p/lista-de-crash-e-solucoes.html
+Pause o jogo e vá em "Options -> Mod Configurations" / "Opções -> Configurações de Mods" para instalar/desinstalar mods in-game etc (tome cuidado ao usar isso).
+Tradução do ModLoader para português brasileiro: MixMods.com.br/2017/05/traducao-modloader-portugues-pt-br.html
+
+
+
+Versão: v0.3.7
+--------------------
+
+Autor: LINK/2012
+
+Agradecimentos:
+ArtututuVidor$, Andryo, Junior_Djjr, JNRois12 (alpha testes)
+Gramps e TJGM (suporte emocional)
+Silent (suporte adicional)
+ThirteenAG (alguns ponteiros pro III/VC)
+
+
+====   MixMods.com.br         ====
+====   fb.com/FamiliaMixMods  ====
+

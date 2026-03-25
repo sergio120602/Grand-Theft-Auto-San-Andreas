@@ -1,0 +1,40 @@
+  __  __ _      __  __           _
+ |  \/  (_)    |  \/  |         | | 2025
+ | \  / |___  _| \  / | ___   __| |___
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+
+
+=======   MixMods.com.br   ======= - Best visualization with monospaced fonts, like "Consolas".
+
+
+------- Instructions:
+
+Extract all files from the folder "(mod - to the game folder)" to your GTA SA folder (where the .exe is).
+Can't be installed on ModLoader, as this mod needs to be loaded first.
+
+-- Essentials Pack download: https://www.mixmods.com.br/2019/06/sa-essentials-pack/
+
+The mod automatically updates the "CrashList.txt" file based on: https://github.com/JuniorDjjr/CrashInfo/tree/main/Lists
+In the file "CrashInfo.ini" there are some language, update and connection options.
+By default, it will update the "CrashList.txt" file once a day when starting the game.
+
+You can test the mod by forcing it to crash, for example by renaming the "audio" folder.
+
+The file "gta_sa.pdb" must have the same name as the .exe, only Hoodlum.
+It shows the function names under the "Backtrace", which can help you understand the problem, but don't trust it.
+
+Recommended to use together with SCRLog: https://www.mixmods.com.br/2020/09/scrlog.html
+
+
+Version: v1.2.1
+--------------------
+
+Author: Junior_Djjr
+Crash list built by Junior_Djjr and MixMods community.
+
+
+====   MixMods.com.br                ====
+====   fb.com/FamiliaMixMods         ====
+====   youtube.com/JuniorDjjrMixMods ====

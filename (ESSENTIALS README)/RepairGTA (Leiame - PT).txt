@@ -1,0 +1,50 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2022
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+
+=======   MixMods.com.br   ======= - Melhor visualizável em fontes mono-espaçadas, como "Consolas".
+
+
+------- Instruções:
+
+Extraia a pasta "RepairGTA" para a pasta do Modloader.
+
+-- Download da última versão do Modloader: MixMods.com.br/2015/01/SA-Modloader.html
+
+
+ = Funcionalidades atuais:
+- Corrige bugs ao instalar e desinstalar mods que adicionam enex (cones amarelos nas portas), que causava o CJ sendo enviado para locais incorretos (só evita problemas futuros, não já presentes).
+- Apaga automaticamente todos os ícones (blips) duplicados no radar (iguais, na mesma posição).
+- Apaga automaticamente todos os geradores de carros (veículos estacionados) duplicados (iguais, na mesma posição).
+- Apaga automaticamente todos os objetos salvos com modelos inexistentes (por exemplo, mods desinstalados, causando crash).
+- Você pode apagar os blips próximos manualmente.
+- As correções realizadas são anotadas num arquivo .log na pasta do mod e corrigidas no seu jogo salvo (quando salvá-lo novamente).
+
+
+ = Correção dos interiores:
+A correção dos "enex" bugados só corrige problemas futuros,
+portanto se o seu jogo salvo está com esse bug, não irá corrigir, remova os mods, salve o jogo e instale este mod,
+sempre tenha este mod instalado para o seu jogo funcionar melhor.
+
+
+ = Como apagar blips (ícones do mapa) próximos manualmente:
+Esta função foi criada pensando em apagar blips de mods que ficaram presos no jogo salvo (que não foram criados com CLEO+) mesmo após deletar o mod.
+Digite "DELBLIP" para apagar manualmente o blip mais próximo da atual posição do CJ.
+Só apaga caso esteja bem próximo (em torno de 5 metros).
+Você pode apagar literalmente qualquer blip do jogo, tome cuidado com isto!
+
+
+Versão: Build 5
+--------------------
+
+Autor: Junior_Djjr
+
+
+====   MixMods.com.br                ====
+====   fb.com/FamiliaMixMods         ====
+====   youtube.com/JuniorDjjrMixMods ====
+

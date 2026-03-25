@@ -1,0 +1,51 @@
+  __  __ _      __  __           _     
+ |  \/  (_)    |  \/  |         | | 2023
+ | \  / |___  _| \  / | ___   __| |___ 
+ | |\/| | \ \/ / |\/| |/ _ \ / _` / __|
+ | |  | | |>  <| |  | | (_) | (_| \__ \
+ |_|  |_|_/_/\_\_|  |_|\___/ \__,_|___/
+                                       
+
+=======   MixMods.com.br   ======= - Melhor visualizável em fontes mono-espaçadas, como "Consolas".
+
+
+------- Instruções:
+
+Extraia todos os arquivos da pasta "(mod)" para a pasta onde está instalado o seu GTA SA.
+
+Atenção: Se você está instalando num mod de conversão total muito grande, pode ser necessário apagar o "CLEO+.cleo".
+
+Somente para gta_sa.exe 1.0 US. Caso Steam/RLG, faça downgrade: https://www.mixmods.com.br/2021/09/primeiros-passos-para-montar-um-gta-modificado/#downgrade
+
+
+-- INCLUÍDO:
+CLEO Library (v4.4.4; sem arquivos para desenvolvedores): MixMods.com.br/2014/02/Livraria-CLEO.html
+CLEO+ (v1.1.4; sem arquivos para desenvolvedores): MixMods.com.br/2020/03/CLEOPlus.html 
+Silent's ASI Loader (v1.3; sem pasta "scripts"): MixMods.com.br/2013/02/silent-asi-loader.html
+
+
+-- Como instalar mods CLEO:
+Os mods CLEO (arquivos .cs entre outros) podem ser instalados na pasta "CLEO" ou pelo ModLoader.
+Ao instalar um mod CLEO no ModLoader, prefira incluir numa subpasta com nome "CLEO", por exemplo "modloader/mod/CLEO"
+Sempre leia o arquivo Leiame/Readme que vem no download de cada mod.
+
+--------------------
+
+CLEO 1, 2, 3, 4.3 e 4.4: Seemann
+CLEO 4 e 4.1: Alien
+CLEO 4.3: Deji
+CLEO 4.4: Junior_Djjr, MiranDMC
+
+Agradecimentos:
+Listener (Pela bela exploração no universo GTA)
+NTAuthority e LINK/2012 (Pela ajuda com a CLEO 4.3)
+mfisto (alpha tests da CLEO 4, suporte e conselhos)
+
+CLEO+: Junior_Djjr
+Silent's ASI Loader: Silent, NTAuthority
+bass.dll: Un4seen
+
+
+====   MixMods.com.br                ====
+====   fb.com/FamiliaMixMods         ====
+====   youtube.com/JuniorDjjrMixMods ====
