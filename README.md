@@ -1,6 +1,5 @@
 # 🌆 Grand Theft Auto: San Andreas - Ultimate Definitive Project (2026)
 
-![Header Banner]([https://i.imgur.com/83pZ6yO.jpeg](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Grand_Theft_Auto_San_Andreas_-_The_Definitive_Edition_logo.svg/960px-Grand_Theft_Auto_San_Andreas_-_The_Definitive_Edition_logo.svg.png))
 
 Este repositorio es una recopilación técnica de **preservación digital**. No es solo un pack de texturas; es una reconstrucción del motor de GTA:SA para que funcione perfectamente en hardware moderno, restaurando los efectos perdidos de la versión de PlayStation 2 y añadiendo correcciones de alta fidelidad.
 
